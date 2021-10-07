@@ -1,0 +1,413 @@
+0 HEAD
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE My Family
+1 DATE 20 SEP 2021
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I1@
+2 NAME Shraddha Kumbhar
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Shraddha /Kumbhar/
+2 GIVN Shraddha
+2 SURN Kumbhar
+2 _MARNM Kumbhar
+1 SEX F
+1 BIRT
+2 DATE 18 AUG 2050
+2 PLAC Kopergaon
+1 OCCU BE in Computer Engineering
+2 PLAC Capgemini
+1 RESI
+2 ADDR 7, calvert avenue west, edison, NJ, 08820
+2 PHON 9082155781
+2 EMAIL shraddhakumbhar18@gmail.com
+1 NOTE Interests: Dancing
+1 NOTE Activities: Dancing
+1 FAMS @F1@
+1 FAMC @F2@
+2 PEDI birth
+0 @I2@ INDI
+1 NAME KK /Kumbhar/
+2 GIVN KK
+2 SURN Kumbhar
+2 _MARNM Kumbhar
+1 SEX M
+1 BIRT
+2 DATE 17 DEC 1965
+1 FAMS @F2@
+1 FAMC @F3@
+0 @I3@ INDI
+1 NAME Gayatri /Jorwekar/
+2 GIVN Gayatri
+2 SURN Jorwekar
+2 _MARNM Kumbhar
+1 SEX F
+1 BIRT
+2 DATE 4 APR 1975
+1 FAMS @F2@
+1 FAMC @F4@
+0 @I4@ INDI
+1 NAME Atharva /Kumbhar/
+2 GIVN Atharva
+2 SURN Kumbhar
+2 _MARNM Kumbhar
+1 SEX M
+1 BIRT
+2 DATE 31 OCT 2004
+1 FAMC @F2@
+0 @I5@ INDI
+1 NAME Tejal /Kumbhar/
+2 GIVN Tejal
+2 SURN Kumbhar
+2 _MARNM Kumbhar
+1 SEX F
+1 BIRT
+2 DATE 18 MAR 1996
+2 PLAC Nashik
+1 OCCU BE in Electrical Engineering
+2 PLAC NEC
+1 RESI
+2 ADDR Nashik
+2 PHON 9604470311
+2 EMAIL tejalkumbhar18@gmail.com
+1 NOTE Interests: Singing
+1 NOTE Activities: Singing
+1 FAMS @F5@
+1 FAMC @F2@
+2 PEDI birth
+0 @I6@ INDI
+1 NAME Abhishek /Kumbhar/
+2 GIVN Abhishek
+2 SURN Kumbhar
+2 _MARNM Kumbhar
+1 SEX M
+1 BIRT
+2 DATE 20 AUG 1994
+2 PLAC Nashik
+1 OCCU BE in Mechanical Engineering
+2 PLAC NEC
+1 RESI
+2 PHON 9884676002
+2 EMAIL abhikumbhar@gmail
+1 NOTE Interests: Calliography
+1 FAMS @F5@
+0 @I7@ INDI
+1 NAME Aman /Kumbhar/
+2 GIVN Aman
+2 SURN Kumbhar
+2 _MARNM Kumbhar
+1 SEX M
+1 BIRT
+2 DATE 6 SEP 2005
+2 PLAC Gujarat
+1 OCCU Student
+2 PLAC St. philomena
+1 NOTE Interests: dancing
+1 NOTE Activities: dancing
+1 FAMC @F2@
+0 @I8@ INDI
+1 NAME Ken /Kumar/
+2 GIVN Ken
+2 SURN Kumar
+2 _MARNM Kumar
+1 SEX M
+1 BIRT
+2 DATE 7 MAR 1994
+2 PLAC India
+1 OCCU CEO
+2 PLAC Capgemini
+1 FAMS @F1@
+0 @I9@ INDI
+1 NAME Alen /Kumbhar/
+2 GIVN Alen
+2 SURN Kumbhar
+2 _MARNM Kumbhar
+1 SEX M
+1 BIRT
+2 DATE 2 JAN 2007
+2 PLAC India
+1 OCCU Student
+1 FAMC @F1@
+0 @I10@ INDI
+1 NAME Damodhar /Jorwekar/
+2 GIVN Damodhar
+2 SURN Jorwekar
+2 _MARNM Jorwekar
+1 SEX M
+1 BIRT
+2 PLAC Kopergaon
+1 DEAT Y
+2 DATE 17 AUG 2005
+2 PLAC Kopergaon
+1 BURI
+2 DATE 17 AUG 2005
+2 PLAC Kopergaon
+1 OCCU Engineer
+2 PLAC Wipro
+1 FAMS @F4@
+0 @I11@ INDI
+1 NAME Mathura /Jorwekar/
+2 GIVN Mathura
+2 SURN Jorwekar
+2 _MARNM Jorwekar
+1 SEX F
+1 BIRT
+2 DATE 5 MAY 1950
+2 PLAC India, Ahmednagar
+1 OCCU Engineer
+1 FAMS @F4@
+0 @I12@ INDI
+1 NAME Manju /Jorwekar/
+2 GIVN Manju
+2 SURN Jorwekar
+2 _MARNM Jorwekar
+1 SEX F
+1 BIRT
+2 DATE 3 NOV 1976
+2 PLAC Mumbai
+1 OCCU Hosewife
+1 FAMS @F6@
+1 FAMC @F4@
+0 @I13@ INDI
+1 NAME Santosh /Dhan/
+2 GIVN Santosh
+2 SURN Dhan
+2 _MARNM Dhan
+1 SEX M
+1 BIRT
+2 PLAC Ahmednagar
+1 DEAT Y
+2 DATE 11 OCT 2008
+2 PLAC Ahmednagar
+1 BURI
+2 PLAC Ahmednagar
+1 OCCU Engineer
+2 PLAC Wipro
+1 FAMS @F6@
+0 @I14@ INDI
+1 NAME Radhika /Dhan/
+2 GIVN Radhika
+2 SURN Dhan
+2 _MARNM Dhan
+1 SEX F
+1 BIRT
+2 PLAC Kopergaon
+1 OCCU Student
+2 PLAC St Philomena Convent High School
+1 NOTE Interests: Dancing
+1 NOTE Activities: Dancing
+1 FAMC @F6@
+0 @I15@ INDI
+1 NAME Ganesh /Dhan/
+2 GIVN Ganesh
+2 SURN Dhan
+2 _MARNM Dhan
+1 SEX M
+1 BIRT
+2 DATE 4 JUL 2010
+2 PLAC Kopergaon
+1 OCCU Student
+2 PLAC St Philomena convent high school
+1 NOTE Interests: Music
+1 NOTE Activities: Music
+1 FAMC @F6@
+0 @I16@ INDI
+1 NAME Kisan /Kumbhar/
+2 GIVN Kisan
+2 SURN Kumbhar
+2 _MARNM Kumbhar
+1 SEX M
+1 BIRT
+2 DATE 7 FEB 1940
+2 PLAC Nashik
+1 DEAT Y
+2 DATE 17 AUG 2011
+2 PLAC Nashik
+1 BURI
+2 DATE 17 AUG 2011
+2 PLAC Nashik
+1 FAMS @F3@
+0 @I17@ INDI
+1 NAME Saraswati /Kumbhar/
+2 GIVN Saraswati
+2 SURN Kumbhar
+2 _MARNM Kumbhar
+1 SEX F
+1 BIRT
+2 DATE 6 SEP 1940
+2 PLAC Nashik
+1 DEAT Y
+2 DATE 14 JUL 2010
+2 PLAC Nashik
+1 BURI
+2 DATE 14 JUL 2010
+2 PLAC Nashik
+1 OCCU Housewife
+1 FAMS @F3@
+0 @I18@ INDI
+1 NAME Anne /Jorwekar/
+2 GIVN Anne
+2 SURN Jorwekar
+2 _MARNM Jorwekar
+1 SEX F
+1 BIRT
+2 DATE 4 JUL 1980
+2 PLAC Mumbai
+1 OCCU Dancer
+2 PLAC Wipro
+1 NOTE Interests: Dancing
+1 NOTE Activities: Dancing
+1 FAMS @F7@
+1 FAMS @F8@
+1 FAMC @F4@
+0 @I19@ INDI
+1 NAME Kevin /Kel/
+2 GIVN Kevin
+2 SURN Kel
+2 _MARNM Kel
+1 SEX M
+1 BIRT
+2 DATE 18 AUG 1993
+2 PLAC Pune
+1 DEAT Y
+2 DATE 17 FEB 2010
+2 PLAC Pune
+1 BURI
+2 DATE 17 FEB 2010
+2 PLAC Pune
+1 OCCU Singer
+2 PLAC Dreams 11
+1 NOTE Interests: Singing
+1 NOTE Activities: Singing
+1 FAMS @F8@
+0 @I20@ INDI
+1 NAME Josh /Steven/
+2 GIVN Josh
+2 SURN Steven
+2 _MARNM Steven
+1 SEX M
+1 BIRT
+2 DATE 6 JUN 1993
+2 PLAC India
+1 OCCU Engineer
+2 PLAC Bizsol
+1 NOTE Interests: Programmer
+1 NOTE Activities: Programmer
+1 FAMS @F7@
+0 @I21@ INDI
+1 NAME Ashi /Kel/
+2 GIVN Ashi
+2 SURN Kel
+2 _MARNM Kel
+1 SEX F
+1 BIRT
+2 DATE 4 APR 2008
+2 PLAC Pune
+1 OCCU Student
+2 PLAC Student
+1 NOTE Interests: Painting
+1 NOTE Activities: Painting
+1 FAMC @F8@
+0 @I22@ INDI
+1 NAME Kalpana /Jorwekar/
+2 GIVN Kalpana
+2 SURN Jorwekar
+2 _MARNM Jorwekar
+1 SEX F
+1 BIRT
+2 DATE 6 MAY 2014
+2 PLAC Pune
+1 OCCU Student
+2 PLAC St joseph School
+1 NOTE Interests: Adventure
+1 NOTE Activities: Adventure
+1 FAMC @F7@
+0 @I23@ INDI
+1 NAME Kartik /Jorwekar/
+2 GIVN Kartik
+2 SURN Jorwekar
+2 _MARNM Jorwekar
+1 SEX M
+1 BIRT
+2 DATE 16 OCT 2025
+2 PLAC Pune
+1 OCCU Student
+2 PLAC St. Joseph School
+1 NOTE Interests: TV
+1 NOTE Activities: TV
+1 FAMC @F7@
+0 @F1@ FAM
+1 HUSB @I8@
+1 WIFE @I1@
+1 CHIL @I9@
+1 MARR
+2 DATE 3 APR 2025
+2 PLAC India
+1 _CURRENT Y
+0 @F2@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 CHIL @I4@
+1 CHIL @I5@
+1 CHIL @I7@
+1 _CURRENT Y
+0 @F3@ FAM
+1 HUSB @I16@
+1 WIFE @I17@
+1 CHIL @I2@
+1 MARR
+2 PLAC India
+1 _CURRENT Y
+0 @F4@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I3@
+1 CHIL @I12@
+1 CHIL @I18@
+1 MARR
+2 DATE 5 MAR 1960
+2 PLAC India
+1 _CURRENT Y
+0 @F5@ FAM
+1 HUSB @I6@
+1 WIFE @I5@
+1 MARR
+2 DATE 7 FEB 1930
+2 PLAC Nashik
+1 _CURRENT Y
+0 @F6@ FAM
+1 HUSB @I13@
+1 WIFE @I12@
+1 CHIL @I14@
+1 CHIL @I15@
+1 MARR
+2 PLAC Ahmednagar
+1 EVEN
+2 TYPE Ending
+1 _CURRENT N
+0 @F7@ FAM
+1 HUSB @I20@
+1 WIFE @I18@
+1 CHIL @I22@
+1 CHIL @I23@
+1 MARR
+2 DATE 8 JAN 2013
+2 PLAC India
+1 _CURRENT Y
+0 @F8@ FAM
+1 HUSB @I19@
+1 WIFE @I18@
+1 CHIL @I21@
+1 MARR
+2 DATE 9 AUG 2010
+2 PLAC Nashik
+1 EVEN
+2 TYPE Ending
+1 _CURRENT N
+0 TRLR
